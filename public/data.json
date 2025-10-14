@@ -1,0 +1,48 @@
+[
+    {
+      "ticket_id": "TCK-1001",
+      "subject": "Website not loading",
+      "description": "The homepage of the website shows a 500 internal server error since morning.",
+      "status": "Open",
+      "priority": "High",
+      "category": "Technical Issue",
+      "image": "https://example.com/images/ticket1001_screenshot.png"
+    },
+    {
+      "ticket_id": "TCK-1002",
+      "subject": "Payment not processed",
+      "description": "Customer tried to make a payment through credit card but the transaction failed.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "category": "Billing",
+      "image": "https://example.com/images/ticket1002_payment_error.png"
+    },
+    {
+      "ticket_id": "TCK-1003",
+      "subject": "App crashing on launch",
+      "description": "The Android version of the app crashes immediately after launching.",
+      "status": "Pending",
+      "priority": "High",
+      "category": "Mobile App",
+      "image": "https://example.com/images/ticket1003_crashlog.png"
+    },
+    {
+      "ticket_id": "TCK-1004",
+      "subject": "Unable to reset password",
+      "description": "User receives an error message when trying to reset their password via email link.",
+      "status": "Resolved",
+      "priority": "Low",
+      "category": "Account Issue",
+      "image": "https://example.com/images/ticket1004_password_error.png"
+    },
+    {
+      "ticket_id": "TCK-1005",
+      "subject": "Feature request: Dark mode",
+      "description": "Several users have requested a dark mode option for better usability at night.",
+      "status": "Closed",
+      "priority": "Low",
+      "category": "Feature Request",
+      "image": "https://example.com/images/ticket1005_darkmode_mockup.png"
+    }
+  ]
+  
